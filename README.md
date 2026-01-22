@@ -1,6 +1,6 @@
 
 ## TInjector_Symbi
-这是一个 Android 进程注入工具，用于向指定应用程序Spawn模式注入共享库.
+借鉴了frida-zymbiote的原理，这是一个 Android 进程注入工具，用于向指定应用程序Spawn模式注入共享库.
 
 
 ## 示例
